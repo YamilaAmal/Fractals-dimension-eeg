@@ -1,0 +1,5 @@
+mne 
+antropy 
+numpy 
+matplotlib 
+scikit-image 
